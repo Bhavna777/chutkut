@@ -11,15 +11,10 @@ gunicorn==20.0.4
 idna==2.10
 Pillow==7.2.0
 psycopg2==2.8.6
-PyAudio @ file:///C:/Users/Bhavna/Downloads/PyAudio-0.2.11-cp38-cp38-win32.whl
-pypiwin32==223
 pyttsx3==2.90
 pytz==2020.1
-pywin32==228
 requests==2.24.0
 soupsieve==2.0.1
-SpeechRecognition==3.8.1
 sqlparse==0.3.1
 urllib3==1.25.10
 whitenoise==5.2.0
-wikipedia==1.4.0
