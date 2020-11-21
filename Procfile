@@ -1,1 +1,1 @@
-web: gunicorn chutkut.wsgi
+web: gunicorn chutkut.wsgi --log-file -
